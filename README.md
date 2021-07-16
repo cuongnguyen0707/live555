@@ -12,6 +12,7 @@ You will find various executables:
  * ./testProgs - contain various programs such as testRTSPClient to receive an RTSP stream
  * ./proxyServer/live555ProxyServer - a great RTSP proxy server
  * ./mediaServer/live555MediaServer - an RTSP media server for serving static files over RTSP
+ * Notice that is you have to copy the media files to 
 
 # Changes to Master
 
